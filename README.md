@@ -10,6 +10,7 @@ Data analysis and Data visualization on the Dataset of Gapminder, explains about
 1.    gdp_cap = GDP per capita
 
 
+
 ### Understanding of dataset
 Before moving to any dataset, we must have to understand each variable properly. For example, in this dataset nearly all columns are self-explanatory, but gdp_cap may be confusing. In this project, we have two different datasets containing information about Gapminder. Both datasets have common keys.
 
